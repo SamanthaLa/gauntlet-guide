@@ -4,3 +4,17 @@ plugins: [jekyll-include-cache, jekyll-paginate, jekyll-sitemap]
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"  
+
+defaults:
+  # _guide
+  - scope:
+      path: ""
+      type: guide
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "guide"
