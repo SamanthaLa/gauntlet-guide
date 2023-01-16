@@ -1,15 +1,14 @@
-title: "Val's Gauntlet Guide"
+title: "Valerie's Gauntlet Guide"
 
 plugins: [jekyll-include-cache, jekyll-paginate, jekyll-sitemap]
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"  
+minimal_mistakes_skin: "dark"
 
 defaults:
-  # _guide
   - scope:
       path: ""
-      type: guide
+      type: pages
     values:
       layout: single
       read_time: false
@@ -18,3 +17,6 @@ defaults:
       comments: false
       sidebar:
         nav: "guide"
+
+atom_feed:
+  hide: true

@@ -1,0 +1,29 @@
+guide:
+  - title: Introduction
+    children:
+      - title: "About This Guide"
+        url: /
+      - title: "Intro to the Gauntlet"
+        url: /intro/gauntlet-intro/
+      - title: "Client Settings and Plugins"
+        url: /intro/client-settings/
+  - title: Preparation Phase - Basic
+    children:
+      - title: "Room Layouts"
+        url: /prep/layouts-basic/
+      - title: "Resources"
+        url: /prep/resources-basic/
+      - title: "Creatures"
+        url: /prep/creatures-basic/
+      - title: "Equipment"
+        url: /prep/equipment-basic/
+  - title: Boss Phase - Basic
+    children:
+      - title: "Hunllef Mechanics"
+        url: /boss/mechanics-basic/
+      - title: "Basic Strategies"
+        url: /boss/strategies-basic/
+  - title: Appendix
+    children:
+      - title: "Movement Mechanics"
+        url: /appendix/movement/
