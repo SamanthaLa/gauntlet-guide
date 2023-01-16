@@ -1,6 +1,7 @@
 ---
 title: "Introduction to The Gauntlet"
 excerpt: "A basic explanation of The Gauntlet."
+permalink: "/intro/gauntlet-intro/"
 toc: true
 ---
 
