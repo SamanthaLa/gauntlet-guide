@@ -17,6 +17,8 @@ guide:
         url: /prep/creatures-basic/
       - title: "Equipment"
         url: /prep/equipment-basic/
+      - title: "Tier 2 Prep Guide"
+        url: /prep/tier2-prep-guide/
   - title: Boss Phase - Basic
     children:
       - title: "Hunllef Mechanics"
