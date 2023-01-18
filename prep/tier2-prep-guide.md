@@ -82,6 +82,7 @@ You will need:
 1. 80 Shards for your second weapon
 2. 100 Shards for each empty armor slot
 3. 60 Shards for each tier 1 armor slot
+
 So for example, if you have no helmet, a tier 2 body, and tier 1 legs, you would need 80 (weapon) + 100 (helmet) + 60 (legs) = 240 shards
 {% endcapture %}
 <div class="notice--danger">
