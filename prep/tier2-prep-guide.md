@@ -1,7 +1,7 @@
 ---
 title: "Valerie's Tier 2 Prep Guide"
 excerpt: "How to prep full tier 2 armor and food consistently."
-permalink: "/prep/tier2-prep-guide"
+permalink: "/prep/tier2-prep-guide/"
 toc: true
 gallery:
     - url: /assets/trip1-ideal.png
