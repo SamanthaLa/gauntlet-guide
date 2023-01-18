@@ -35,7 +35,7 @@ To start, you'll want to head into the first room next to the spawn room. Usuall
 When you're collecting your 7th resource of one type, it may be worth collecting and then dropping the remaining 2 resources in the node for a chance at getting more shards.
 {: .notice--info}
 
-![starting-inventory](/assets/starting-inventory.png){: .align-left} In your first rooms, it helps to organize your inventory. You can drag items around without interrupting combat or collecting. Here's how I like to organize mine.
+![starting-inventory](../assets/starting-inventory.png){: .align-left} In your first rooms, it helps to organize your inventory. You can drag items around without interrupting combat or collecting. Here's how I like to organize mine.
 {: style="display:flex"}
 
 By the end of your first trip, you will ideally have:
@@ -48,7 +48,7 @@ It's okay if you don't get 2 Grym leaves, you can always pick them up later. It'
 
 {% include gallery caption="Example route out of spawn. Make sure to check the demi rooms as you go along. If you don't have all of your resources by the end of the C, extend the path out as shown in the second image. If you still don't have all of your resources, extend the path again per the third image. If you don't get them by then, you need to restart." %}{: .full}
 
-![full-inventory](/assets/trip1-full-inventory.png){: .align-left} Here's what an ideal first trip inventory looks like. You should be able to achieve this most runs, though some runs you may be short on 1-4 materials of a single type.
+![full-inventory](../assets/trip1-full-inventory.png){: .align-left} Here's what an ideal first trip inventory looks like. You should be able to achieve this most runs, though some runs you may be short on 1-4 materials of a single type.
 {: style="display:flex"}
 
 At the singing bowl in spawn:
